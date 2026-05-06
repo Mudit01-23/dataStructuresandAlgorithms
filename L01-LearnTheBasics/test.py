@@ -24,5 +24,11 @@
 
 # list1 = [(1,2,3,4),(5,6,7,8)]
 # list2 = [[1,2,3,4],[5,6,7,8]]
-a = None
-print(a)
+# a = None
+# print(a)
+
+# arr = [1,2,3,4]
+# print(arr)
+
+arr = [1,2,3,4]
+print(arr)
